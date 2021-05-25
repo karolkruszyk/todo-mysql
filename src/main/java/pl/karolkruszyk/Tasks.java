@@ -1,5 +1,7 @@
 package pl.karolkruszyk;
 
+import pl.karolkruszyk.db.QueryExecutor;
+
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.text.SimpleDateFormat;

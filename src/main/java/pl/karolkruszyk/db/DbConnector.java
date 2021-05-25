@@ -1,10 +1,10 @@
-package pl.karolkruszyk;
+package pl.karolkruszyk.db;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
 
-public class DbConnector {
+class DbConnector {
 
     private static final String URL = "jdbc:mysql://localhost:3306/todo-db";
     private static final String USERNAME = "karol";

@@ -1,4 +1,4 @@
-package pl.karolkruszyk;
+package pl.karolkruszyk.db;
 
 import java.sql.Connection;
 import java.sql.ResultSet;
